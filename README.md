@@ -17,7 +17,8 @@ By the end of this lab, you should be able to say:
 
 > 1. I can explain what makes an AI agent different from a regular client like a web app or a bot.
 >
->    It is not just a self-hosted chat window: it has tools, skills, memory, and can act proactively.
+
+> It is not just a self-hosted chat window: it has tools, skills, memory, and can act proactively.
 > 2. I set up nanobot from scratch — created the project, installed the framework, connected it to the Qwen API, wired it into Docker Compose, and talked to it.
 > 3. I saw what a bare agent does without tools (hallucinates) vs. with MCP tools (answers correctly) — and I understand why.
 > 4. I built MCP tools that let the agent query logs and traces, turning observability data into a conversational interface.
